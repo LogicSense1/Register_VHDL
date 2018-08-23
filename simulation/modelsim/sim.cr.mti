@@ -1,0 +1,53 @@
+{C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/imem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/imem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity imem
+-- Compiling architecture behavioral of imem
+
+} {} {}} {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/common.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/common.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package common
+-- Compiling package body common
+-- Loading package common
+
+} {} {}} {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/iandr.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/iandr.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity iandr
+-- Compiling architecture behavioral of iandr
+
+} {} {}} {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/alu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity alu
+-- Compiling architecture behavioral of alu
+
+} {} {}} {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/regfile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/Desktop/ELEC3608 Computer Architecture/LAB3/Part 1/src/regfile.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity regfile
+-- Compiling architecture rtl of regfile
+
+} {} {}}
